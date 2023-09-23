@@ -1,43 +1,44 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Gerardo Rivera Tello",
+    "label": "Atmospheric Science Ph.D. Student",
+    "picture": "https://avatars.githubusercontent.com/u/23618263?v=4",
+    "email": "griverat@hawaii.edu",
+    "phone": "",
+    "website": "https://griverat.github.io",
+    "summary": "I am currently studying for a Ph.D. in the Atmospheric Sciences Department at the University of Hawaii. My research insterest are in applying deep learning to gain insight on El Niño Southern Oscillation (ENSO) diversity.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/griverat" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/griveratello" },
+      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/griveratello" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/griveratello" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Climate Science" },
+    { "name": "ENSO" },
+    { "name": "Big Data"},
+    { "name": "Machine Learning" },
+    { "name": "Data Visualization" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "Java", "Javascript", "Fortran" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "LaTeX" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Atmospheric Science (expected Spring, 2028)",
+      "studyType": "Ph.D.",
+      "startDate": "2023-08",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,27 +46,28 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "School of Ocean and Earth Sciences Technology (SOES)",
+      "position": "Graduate Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-08",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Graduate research assistant working on ENSO in Dr. Christina Karamperidou's group",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Climate simulations of past ENSO extreme events",
+        "Deep-learning on climate data"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Instituto Geofísico del Perú",
+      "position": "Research Assistant",
+      "website": "https://www.gob.pe/igp",
+      "startDate": "2018-11",
+      "endDate": "2023-07",
+      "summary": "Research and monitoring on ENSO",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Monitoring of ENSO conditions by processing and automating real time data in a high performance computing Linux cluster",
+        "Research on equatorial waves",
+        "Research on deep learning methods applied to ENSO forecasting"
       ]
     }
   ],

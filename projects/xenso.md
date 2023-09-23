@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "xENSO"
+date: 2020
 published: true
 labels:
-  - Lisp
+  - Python
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A python package that leverages xarray for ENSO studies"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
