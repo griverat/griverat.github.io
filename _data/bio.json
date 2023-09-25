@@ -9,10 +9,9 @@
     "summary": "I am currently studying for a Ph.D. in the Atmospheric Sciences Department at the University of Hawaii. My research insterest are in applying deep learning to gain insight on El Niño Southern Oscillation (ENSO) diversity.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/griverat" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/griveratello" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/griveratello" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/griveratello" }
+      { "network": "github", "username": "griverat", "url": "http://github.com/griverat" },
+      { "network": "linkedin", "username": "griveratello", "url": "http://linkedin.com/in/griveratello" },
+      { "network": "twitter", "username": "griveratello", "url": "http://twitter.com/griveratello" }
     ]
   },
   "interests": [
