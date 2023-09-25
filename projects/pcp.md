@@ -1,17 +1,18 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "xENSO"
-date: 2020
+image: img/pcp/pcplogo.jpeg
+title: "Python Club for Physicists"
+date: 2019
 published: true
 labels:
   - Python
   - GitHub
-summary: "A python package that leverages xarray for ENSO studies"
+  - Physics
+summary: "Phyton Club for Physicists is a project that aims to teach Python to physics students at the National University of San Marcos (UNMSM) in Lima, Peru."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/pcp/pcplogo.jpeg">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
@@ -56,4 +57,4 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="https://github.com/griverat/xENSO"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/PCPUNMSM"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
