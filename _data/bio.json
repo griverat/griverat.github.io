@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Gerardo Rivera Tello",
+    "label": "Atmospheric Science Ph.D. Student",
+    "picture": "https://avatars.githubusercontent.com/u/23618263?v=4",
+    "email": "griverat@hawaii.edu",
+    "phone": "",
+    "website": "https://griverat.github.io",
+    "summary": "I am currently studying for a Ph.D. in the Atmospheric Sciences Department at the University of Hawaii. My research insterest are in applying deep learning to gain insight on El Niño Southern Oscillation (ENSO) diversity.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "griverat", "url": "http://github.com/griverat" },
+      { "network": "linkedin", "username": "griveratello", "url": "http://linkedin.com/in/griveratello" },
+      { "network": "twitter", "username": "griveratello", "url": "http://twitter.com/griveratello" }
+    ]
+  },
+  "interests": [
+    { "name": "Climate Science" },
+    { "name": "ENSO" },
+    { "name": "Big Data"},
+    { "name": "Machine Learning" },
+    { "name": "Data Visualization" },
+    { "name": "3D Graphics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "Java", "Javascript", "Fortran" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "LaTeX" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Atmospheric Science (expected Spring, 2028)",
+      "studyType": "Ph.D.",
+      "startDate": "2023-08",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "School of Ocean and Earth Sciences Technology (SOES)",
+      "position": "Graduate Assistant",
+      "website": "",
+      "startDate": "2023-08",
+      "endDate": "Present",
+      "summary": "Graduate research assistant working on ENSO in Dr. Christina Karamperidou's group",
+      "highlights": [
+        "Climate simulations of past ENSO extreme events",
+        "Deep-learning on climate data"
+      ]
+    },
+    {
+      "company": "Instituto Geofísico del Perú",
+      "position": "Research Assistant",
+      "website": "https://www.gob.pe/igp",
+      "startDate": "2018-11",
+      "endDate": "2023-07",
+      "summary": "Research and monitoring on ENSO",
+      "highlights": [
+        "Monitoring of ENSO conditions by processing and automating real time data in a high performance computing Linux cluster",
+        "Research on equatorial waves",
+        "Research on deep learning methods applied to ENSO forecasting"
+      ]
+    }
+  ]
+}
